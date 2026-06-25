@@ -34,3 +34,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# packages (added as requested)
+package.json
+package-lock.json
